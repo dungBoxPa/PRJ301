@@ -1,0 +1,199 @@
+.product-cart {
+    width: 100%;
+}
+
+.product-cart .cart-header p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.product-cart .cart-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    min-height: auto;
+    max-width: 600px;
+    margin: auto;
+    color: #d70018;
+}
+
+.product-cart .cart-container {
+    max-width: 600px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.product-cart .cart-container .data-container {
+    border-radius: 15px;
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 10%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    padding: 10px;
+    margin-bottom: 15px;
+    position: relative;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.data-container .data-img {
+    width: 35%;
+}
+
+.data-container .data-img img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.data-container .product-info {
+    width: 65%;
+    margin-left: 5px;
+}
+
+.data-container .product-info .product-name {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.data-container .product-info .product-info_price .new-price {
+    font-size: 15px;
+    color: #d70018;
+    font-weight: 700;
+}
+
+.data-container .product-info .product-info_price .old-price {
+    margin-left: 5px;
+    font-size: 12px;
+    color: #777;
+    text-decoration: line-through;
+}
+
+.data-container .product-info .product-info_price .discount {
+    padding: 3px 5px;
+    background-color: #d70018;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.product-info .product-info_action {
+    position: relative;
+    margin-top: 5px;
+}
+
+.product-info .product-info_action .change-quantity {
+    display: flex;
+    align-items: flex-end;
+}
+
+.product-info .product-info_action .change-quantity .number .minus {
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    padding: 8px 5px;
+    border: 1px solid #ddd;
+    border-right: 0;
+    border-radius: 4px 0 0 4px;
+}
+
+.product-info .product-info_action .change-quantity .number input {
+    height: 25px;
+    width: 30px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    padding: 0;
+}
+
+.product-info .product-info_action .change-quantity .number .plus {
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    padding: 8px 5px;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.product-info .promotion-pack {
+    background-color: #f6f6f6;
+    border-radius: 10px;
+    color: #383d41;
+    border-color: #d6d8db;
+    margin-top: 5px;
+}
+
+.pack-detail {
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cart-btn {
+    margin: 0 auto;
+    background-color: #fff;
+    max-width: 600px;
+    border-radius: 15px;
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 10%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    padding: 10px;
+    position: relative;
+}
+
+.submit-btn button {
+    height: 60px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: #d70018;
+    /* background-color: transparent; */
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.submit-btn a {
+    height: 60px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 600;
+    color: #dc3545;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-color: #dc3545;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.submit-btn a:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+/*Annoucement: Start*/
+
+
+
+/*Annoucement: End*/

@@ -1,0 +1,1669 @@
+
+
+
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<meta name="description" content="Huawei là nhà cung cấp các giải pháp ICT hàng đầu toàn cầu, chúng tôi đã tạo ra những lợi thế tổng thể và toàn vẹn trong các hệ thống mạng viễn thông, các thiết bị và điện toán đám mây.">
+<meta name="keywords" content="Telecom Networks,Radio Access Network, Network, Core Network, Applications and Software, Sites Solutions, Global Services, System Integration Solution, Assurance Solution, Learning Solution, Devices, Mobile broadband devices, Handsets, Convergence devices, Video solutions">
+
+<!--share begin -->
+<meta property="og:title" content="Huawei Việt Nam">
+<meta property="og:description" content="Huawei là nhà cung cấp các giải pháp ICT hàng đầu toàn cầu, chúng tôi đã tạo ra những lợi thế tổng thể và toàn vẹn trong các hệ thống mạng viễn thông, các thiết bị và điện toán đám mây.">
+<meta property="og:image" content="https://www-file.huawei.com/-/media/corp/home/image/logo_400x200.png">
+<meta property="og:url" content="https://www.huawei.com/vn/">
+<meta property="og:site_name" content="huawei">
+<!--share end -->
+<!-- add twitter meta begin -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Huawei Việt Nam">
+<meta name="twitter:description" content="Huawei là nhà cung cấp các giải pháp ICT hàng đầu toàn cầu, chúng tôi đã tạo ra những lợi thế tổng thể và toàn vẹn trong các hệ thống mạng viễn thông, các thiết bị và điện toán đám mây.">
+<meta name="twitter:image" content="https://www-file.huawei.com/-/media/corp/home/image/logo_400x200.png">
+<!-- add twitter meta end -->
+
+<link rel="canonical" href="https://www.huawei.com/vn/">
+
+
+     <link rel="stylesheet" type="text/css" href="/Assets/corp/2020/css/bootstrap.css?ver=202203112025">
+ <link rel="stylesheet" type="text/css" href="/Assets/corp/2020/css/common.css?ver=202203112025">
+<link rel="stylesheet" type="text/css" href="/Assets/corp/2020/css/hack.css?ver=202203112025">
+<link rel="stylesheet" type="text/css" href="/~/media/CORP2020/Assets/corp/2020/css/global-hack.css?ver=202203112025">
+    <title>Huawei Việt Nam</title>
+    <link rel="Shortcut Icon" href="/Assets/corp/v2/img/img_ent_en_logo_ico.png">
+     <link rel="stylesheet" type="text/css" href="/Assets/corp/2020/css/index.css?ver=202203112025">
+<meta name="google-site-verification" content="wqACMoaM-tJAtTNspMBb0JCRVzOL4wcawL0B9QAcJPw">
+<meta name="msvalidate.01" content="9B78E6BE82A5A69C61096A84EA718DB6">
+<meta name="baidu-site-verification" content="mXsUjBxk6j">
+<meta name="yandex-verification" content="01965fd23a7e83d9">
+    <!--[if lt IE 9 ]>
+        <script type="text/javascript" src="/Assets/corp/v2/js/vendor/ie8-fix.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <form method="post" action="/vn/" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="5vO6HSbhSYhwI7hKUax4d4qWl0ADuHUi2/iHCEQB/MDee3iwFkeZcdQdrGlDx/PGeguLiFSWkEVkxwcUzEcV9m/t//EOKleKYU7Zyh0ZXQhlHnAUdloPPPG11f5j+JfvDp1tUQ==">
+</div>
+</form>
+    
+
+<script type="text/javascript">
+    var utag_data = { "site_name": "WWW", "site_type": "website", "china_flag": "no", "country_code": "vn", "elqUID": "", "event_on_page": "", "hwid": "", "language_code": "vi", "page_name": "Huawei Việt Nam", "search_keyword": "", "search_page_number": "1", "search_results": "0", "site_business_unit": "corporate", "site_section": "", "tealium_event": "homepage_view", "topic_tag": [], "industry_tag": []};
+    (function (a, b, c, d) {
+        a = ((navigator.languages && navigator.languages.length) ? navigator.languages[0] : (navigator.browserLanguage || navigator.userLanguage || navigator.language || 'en')).toLowerCase() == "zh-cn" ? '//tags.tiqcdn.cn/utag/huawei/main/prod/utag.js' : '//tags.tiqcdn.com/utag/huawei/main/prod/utag.js';
+        b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true;
+        a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+    })();</script>
+
+    <div class="browsehappy ReadPolicy">
+    <p>Trang web này sử dụng cookies. Với việc tiếp tục truy cập trang web, bạn đồng ý với việc chúng tôi sử dụng cookies.<a href="/vn/privacy-policy" target="_blank"><span>Đọc chính sách bảo mật của chúng tôi</span> <em class="iconfont icon-arrow-right"></em></a><a href="javascript:void(0)" class="close" title="close"></a></p>
+  </div>
+    
+    
+
+<input type="hidden" id="hidLanguage" value="vi-vn">
+<input type="hidden" id="hidRegionName" value="vn">
+<input type="hidden" id="SearchUrl" value="/vn/searchresult">
+<input type="hidden" id="hidUserStatusUrl" value="/vn/user">
+<input type="hidden" id="hidLoadingMessage" value="LoadingMessage">
+<!-- top -->
+<div class="top-nav">
+    <div class="top-nav-height">
+        <div class="container">
+            <div class="pull-right">
+                
+                    <a href="#" onclick="ga('send', 'event', 'header', 'switchwebsite')">
+                        <span class="iconfont icon-header-linkgroup-new"></span>
+                        <span class="text">
+                            C&#244;ng ty
+                        </span>
+                        <span class="iconfont icon-arrow-down hidden-xs hidden-sm"></span>
+                        <span class="iconfont icon-arrow-right hidden-md hidden-lg"></span>
+                    </a>
+                
+                <a href="#" onclick="ga('send', 'event', 'header', 'worldwide')">
+                    <span class="iconfont icon-header-language-new"></span>
+                    <span class="text">Viet Nam [Change]</span>
+                    <span class="iconfont icon-arrow-down hidden-xs hidden-sm"></span>
+                    <span class="iconfont icon-arrow-right hidden-md hidden-lg"></span>
+                </a>
+                
+                
+            </div>
+        </div>
+    </div>
+    <div class="top-nav-content menu-fixed-right">
+        <div class="container">
+            <a href="javascript:;" class="btn-nav-back hidden-md hidden-lg">
+                <span class="iconfont icon-arrow-lift"></span>
+                Back To Menu
+            </a>
+            <div class="group-website chide" id="group-website">
+                <div class="title hidden-md hidden-lg">Huawei Website Group</div>
+                
+                        
+                            <dl>
+                                <dt>
+                                    <span class="active">
+                                    
+                                    <span class="iconfont icon-arrow-right"></span>
+                                    <span>
+                                        C&#244;ng ty
+                                    </span>
+                                    
+                                    </span>
+                                </dt>
+                                <dd>
+                                    Giới thiệu về Huawei, Tin tức, sự kiện, Thông tin chi tiết về ngành và nhiều hơn nữa
+                                </dd>
+                            </dl>
+                        
+                    
+                        
+                            <dl>
+                                <dt>
+                                    <a href="http://consumer.huawei.com/vn" target="_blank" onclick="ga('send', 'event', 'header', 'huawei_bg', 'consumer');">
+                                    
+                                    
+                                    <span>
+                                        C&#225; nh&#226;n 
+                                    </span>
+                                    <span class="iconfont icon-arrow-right"></span>
+                                    </a>
+                                </dt>
+                                <dd>
+                                    Điện thoại, PC & máy tính bảng, đồ thể thao, băng rộng di động và nhiều hơn nữa
+                                </dd>
+                            </dl>
+                        
+                    
+                        
+                            <dl>
+                                <dt>
+                                    <a href="http://e.huawei.com/en" target="_blank" onclick="ga('send', 'event', 'header', 'huawei_bg', 'enterprise');">
+                                    
+                                    
+                                    <span>
+                                        Doanh nghi&#234;̣p
+                                    </span>
+                                    <span class="iconfont icon-arrow-right"></span>
+                                    </a>
+                                </dt>
+                                <dd>
+                                    Các sản phẩm, các giải pháp and dịch vụ cho doanh nghiệp
+                                </dd>
+                            </dl>
+                        
+                    
+                        
+                            <dl>
+                                <dt>
+                                    <a href="http://carrier.huawei.com/en" target="_blank" onclick="ga('send', 'event', 'header', 'huawei_bg', 'carrier');">
+                                    
+                                    
+                                    <span>
+                                        Vận chuyển 
+                                    </span>
+                                    <span class="iconfont icon-arrow-right"></span>
+                                    </a>
+                                </dt>
+                                <dd>
+                                    Các sản phẩm, các giải pháp and dịch vụ cho vận chuyển
+                                </dd>
+                            </dl>
+                        
+                    
+            </div>
+            <div class="worldwide chide" id="worldwide">
+                
+                <div class="worldwide-contact">
+                    
+                    
+                    <div class="worldwide-language" style="">
+                        <h3>
+Chọn một quốc gia hoặc khu vực</h3>
+                    </div>
+                    <ul class="list-unstyled">
+                        <li>
+                            <span>Australia</span> -
+                <a href="/au/" link="/au/" onclick="ga('send', 'event', 'header', 'worldwide', '/au/');">English </a>
+                        </li>
+                        <li>
+                            <span>Belarus</span> -
+                <a href="/by/" link="/by/" onclick="ga('send', 'event', 'header', 'worldwide', '/by/');">Pусский</a>
+                        </li>
+                        <li>
+                            <span>Brazil</span> -
+                <a href="/br/" link="/br/" onclick="ga('send', 'event', 'header', 'worldwide', '/br/');">Portuguese</a>
+                        </li>
+                        <li>
+                            <span>Canada</span> -
+                <a href="/ca/" link="/ca/" onclick="ga('send', 'event', 'header', 'worldwide', '/ca/');">English </a>
+                        </li>
+                        <li>
+                            <span>China</span> -
+                <a href="/cn/" link="/cn/" onclick="ga('send', 'event', 'header', 'worldwide', '/cn/');">简体中文</a>
+                        </li>
+                        <li>
+                            <span>France</span> -
+                <a href="/fr/" link="/fr/" onclick="ga('send', 'event', 'header', 'worldwide', '/fr/');">Français</a>
+                        </li>
+                        <li>
+                            <span>Germany</span> -
+                <a href="/de/" link="/de/" onclick="ga('send', 'event', 'header', 'worldwide', '/de/');">Deutsch</a>
+                        </li>
+                        <li>
+                            <span>Ireland</span> -
+                <a href="/ie/" link="/ie/" onclick="ga('send', 'event', 'header', 'worldwide', '/ie/');">English</a>
+                        </li>
+<li>
+                            <span>Italy</span> -
+                <a href="/it/" link="/it/" onclick="ga('send', 'event', 'header', 'worldwide', '/it/');">Italiano</a>
+                        </li>
+                        <li>
+                            <span>Japan</span> -
+                <a href="/jp/" link="/jp/" onclick="ga('send', 'event', 'header', 'worldwide', '/jp/');">日本語</a>
+                        </li>
+                        <li>
+                            <span>Kazakstan </span>-
+                <a href="/kz/" link="/kz/" onclick="ga('send', 'event', 'header', 'worldwide', '/kz/');">Pусский</a>
+                        </li>
+                        <li>
+                            <span>Kenya</span> -
+                <a href="/ke/" link="/ke/" onclick="ga('send', 'event', 'header', 'worldwide', '/ke/');">English</a>
+                        </li>
+                        <li>
+                            <span>Korea</span> -
+                <a href="/kr/" link="/kr/" onclick="ga('send', 'event', 'header', 'worldwide', '/kr/');">한국어</a>
+                        </li>
+                        <li>
+                            <span>Malaysia </span>-
+                <a href="/my/" link="/my/" onclick="ga('send', 'event', 'header', 'worldwide', '/my/');">English</a>
+                        </li>
+                        <li>
+                            <span>Mexico</span> -
+                <a href="/mx/" link="/mx/" onclick="ga('send', 'event', 'header', 'worldwide', '/mx/');">Español</a>
+                        </li>
+                        <!--<li>
+                            <span>Myanmar</span> -
+                <a href="/mm/" link="/mm/" onclick="ga('send', 'event', 'header', 'worldwide', '/mm/');">ျမန္မာ</a>
+                        </li>-->
+                        <li>
+                            <span>New Zealand</span> -
+                <a href="/nz/" link="/nz/" onclick="ga('send', 'event', 'header', 'worldwide', '/nz/');">English</a>
+                        </li>
+                        <li>
+                                    <span>Netherlands</span> -
+                    <a href="/nl/" link="/nl/" onclick="ga('send', 'event', 'header', 'worldwide', '/nl/');">Dutch</a>
+                                </li>
+                 <li>
+                            <span>Romania</span> -
+                <a href="/ro/" link="/ro/" onclick="ga('send', 'event', 'header', 'worldwide', '/ro/');">Română</a>
+                        </li>
+                        <li>
+                            <span>Russia</span> -
+                <a href="/ru/" link="/ru/" onclick="ga('send', 'event', 'header', 'worldwide', '/ru/');">Pусский</a>
+                        </li>
+                        <li>
+                            <span>South Africa</span> -
+                <a href="/za/" link="/za/" onclick="ga('send', 'event', 'header', 'worldwide', '/za/');">English </a>
+                        </li>
+                        <li>
+                            <span>Spain</span> -
+                <a href="/es/" link="/es/" onclick="ga('send', 'event', 'header', 'worldwide', '/es/');">Español</a>
+                        </li>
+                        <li>
+                            <span>Switzerland</span> -
+                <a href="/ch-en/" link="/ch-en/" onclick="ga('send', 'event', 'header', 'worldwide', '/ch-en/');">English </a>
+                        </li>
+                        <li>
+                            <span>Thailand</span> -
+                <a href="/th/" link="/th/" onclick="ga('send', 'event', 'header', 'worldwide', '/th/');">ภาษาไทย</a>
+                        </li>
+                        <li>
+                            <span>Turkey</span> -
+                <a href="/tr/" link="/tr/" onclick="ga('send', 'event', 'header', 'worldwide', '/tr/');">Türkiye</a>
+                        </li>
+                        <li>
+                            <span>Ukraine</span> -
+                <a href="/ua/" link="/ua/" onclick="ga('send', 'event', 'header', 'worldwide', '/ua/');">Українська </a>
+                        </li>
+                        <li>
+                            <span>United Kingdom</span> -
+                <a href="/uk/" link="/uk/" onclick="ga('send', 'event', 'header', 'worldwide', '/uk/');">English </a>
+                        </li>
+                        <li>
+                            <span>United States</span> -
+                <a href="/us/" link="/us/" onclick="ga('send', 'event', 'header', 'worldwide', '/us/');">English </a>
+                        </li>
+                        <li>
+                            <span>Uzbekistan</span> -
+                <a href="/uz/" link="/uz/" onclick="ga('send', 'event', 'header', 'worldwide', '/uz/');">Pусский </a>
+                        </li>
+                        <li>
+                            <span>Uzbekistan</span> -
+                <a href="/uz-uz/" link="/uz-uz/" onclick="ga('send', 'event', 'header', 'worldwide', '/uz-uz/');">O’zbek </a>
+                        </li>
+                        <li>
+                            <span>Vietnam</span> -
+                <a href="/vn/" link="/vn/" onclick="ga('send', 'event', 'header', 'worldwide', '/vn/');">Tiếng Việt</a>
+                        </li>
+                        <li>
+                            <span>Global</span>-
+                <a href="/en/" link="/en/" onclick="ga('send', 'event', 'header', 'worldwide', '/en/');">English</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- header-->
+<header>
+    <!-- header menu -->
+    <div class="navbar">
+        <div class="container nav-container">
+            <div class="navbar-header">
+                <!-- 移动端菜单 -->
+                <button class="navbar-toggle collapsed">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- logo left -->
+                <a href="/vn/" class="logo navbar-brand">
+                    <img src="//www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo">
+                </a>
+            </div>
+
+            <!-- 菜单 -->
+            <nav id="hw-navbar">
+                <ul class="nav navbar-nav list-unstyled">
+                    
+                            <li class="menu-list hover-open ">
+                                
+                                    <a href="javascript:;" target="" class="btn-next collapsed hw-navbar-text">
+                                        Điện thoại, PC...                                             
+                                        <span class="iconfont icon-arrow-right hidden-md hidden-lg"></span>
+                                    </a>
+                                    <div class="nav-open menu-fixed-right header-content-n1">
+<a href="javascript:;" class="btn-nav-back hidden-md hidden-lg">
+<span class="iconfont icon-arrow-lift"></span>
+Trở lại menu ch&iacute;nh
+</a>
+<div class="nav-ani">
+<div class="title hidden-md hidden-lg">Điện thoại, PC...
+</div>
+<div class="mask"></div>
+<div class="container-custom">
+<div class="new-font-box">
+<div class="row">
+<div class="col-md-12">
+<ul class="row">
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/phones/" onclick="ga('send', 'event', 'navbar', 'b2c', 'phones');" target="_blank">
+    <span class="huawei-iconfont iconPhones"></span>
+    <p>Điện thoại</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/laptops/" onclick="ga('send', 'event', 'navbar', 'b2c', 'laptop');" target="_blank">
+    <span class="huawei-iconfont iconMateBook"></span>
+    <p>Máy tính xách tay</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/tablets/" onclick="ga('send', 'event', 'navbar', 'b2c', 'tablet');" target="_blank">
+    <span class="huawei-iconfont iconMatePad"></span>
+    <p>Máy tính bảng</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/wearables/" onclick="ga('send', 'event', 'navbar', 'b2c', 'Wearables');" target="_blank">
+    <span class="huawei-iconfont iconWearables"></span>
+    <p>Thiết bị đeo</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/audio/" onclick="ga('send', 'event', 'navbar', 'b2c', 'audio');" target="_blank">
+    <span class="huawei-iconfont iconearphones"></span>
+    <p>Tai nghe & Loa</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/emui/" onclick="ga('send', 'event', 'navbar', 'b2c', 'EMUI');" target="_blank">
+    <span class="huawei-iconfont iconEMUI"></span>
+    <p>EMUI</p>
+    </a>
+    </li>
+    <li class="col-md-3 col-sm-3 col-xs-4">
+    <a href="http://consumer.huawei.com/vn/accessories/" onclick="ga('send', 'event', 'navbar', 'b2c', 'accessories');" target="_blank">
+    <span class="huawei-iconfont iconaccessories-new"></span>
+    <p>Phụ kiện</p>
+    </a>
+    </li>
+</ul>
+</div>
+<!--
+<div class="col-md-6">
+<br class="hidden-xs" />
+<a href="https://consumer.huawei.com/vn/phones/p40-pro/" target="_blank"><img src="~/media/CORP2020/home/nav/huawei-p40-pro.jpg" alt="p40 pro" class="mate30pro hidden-sm hidden-xs" /></a>
+</div>-->
+</div>
+</div>
+</div>
+<div class="nav-open-other">
+<div class="container-custom">
+<div class="row">
+<div class="col-md-3 col-sm-12 col-xs-12">
+<a href="https://consumer.huawei.com/vn/" onclick="ga('send', 'event', 'navbar', 'b2c', 'consumerhome');" target="_blank">
+<span class="iconfont icon-user"></span>
+<span>Consumer Website</span>
+<span class="hwic_open-in-new3"></span>
+</a>
+</div>
+<a href="javascript:;" class="btn-close-nav-ani hidden-sm hidden-xs"><span class="iconfont icon-close"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+@media(min-width: 992px){
+header .navbar nav#hw-navbar .header-content-n1 ul li{width:14.28%;}
+}
+@media (max-width: 576px) {
+header .navbar nav#hw-navbar .header-content-n1 ul li{min-height:130px;}
+}
+</style>
+                                
+                            </li>
+                        
+                            <li class="menu-list hover-open ">
+                                
+                                    <a href="javascript:;" target="" class="btn-next collapsed hw-navbar-text">
+                                        Cho doanh nghi&#234;̣p
+                                        <span class="iconfont icon-arrow-right hidden-md hidden-lg"></span>
+                                    </a>
+                                    <div class="nav-open menu-fixed-right">
+              <a href="javascript:;" class="btn-nav-back hidden-md hidden-lg">
+                <span class="iconfont icon-arrow-lift"></span>
+                
+Trở lại menu chính
+              </a>
+              <div class="nav-ani">
+                <div class="title hidden-md hidden-lg">စီCho doanh nghiệp</div>
+                <div class="mask"></div>
+                <div class="container-custom">
+                  <div class="row">
+                    <div class="col-md-4">
+                      <h3 class="collapsed" data-toggle="collapse" data-target="#header-list-1" aria-controls="header-list-1" aria-expanded="true">CHO DOANH NGHIỆP
+ 
+ <span class="iconfont icon-arrow-down"></span>
+                        <div class="line"></div>
+                      </h3>
+                      <div class="row collapse navbar-collapse" id="header-list-1">
+                        <div class="col-md-6">
+                          <div class="list-nav">
+                            <h4>Các sản phẩm</h4>
+                            <ul class="list-unstyled">
+                         
+   <li><a href="http://e.huawei.com/en/products/enterprise-networking/switches?source=corp_comm" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-switches');" target="_blank">Bộ chuyển mạch (Switches)</a></li>
+                                    <li><a href="http://e.huawei.com/en/products/enterprise-networking/routers?source=corp_comm" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-routers');" target="_blank">Bộ định tuyến (Routers)</a></li>
+                                    <li><a href="http://e.huawei.com/en/products/enterprise-networking/wlan?source=corp_comm" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-wlan');" target="_blank">Mạng cục bộ không dây (WLAN)</a></li>
+                                    <li><a href="http://e.huawei.com/en/products/cloud-computing-dc/servers?source=corp_comm" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-servers');" target="_blank">Máy chủ (Servers)</a></li>
+                                    <li><a href="http://e.huawei.com/en/products-solutions?source=corp_comm" class="see-all" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-seeallproduct');" target="_blank">Xem tất cả</a></li>
+                                  
+
+                            </ul>
+                          </div>
+                        </div>
+                        <div class="col-md-6">
+                          <div class="list-nav">
+                            <h4>ေCác giải pháp</h4>
+                            <ul class="list-unstyled">
+                                 <li><a href="http://e.huawei.com/en/solutions/business-needs/data-center?source=corp_comm" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-datacenter');" target="_blank">Đơn giản hóa CNTT, Linh hoạt hóa kinh doanh</a></li>
+											<li><a href="http://e.huawei.com/en/solutions/business-needs/enterprise-network?source=corp_comm" target="_blank">Mạng Doanh nghiệp</a></li>
+											<li><a href="http://e.huawei.com/en/solutions/business-needs/wireless-private-network?source=corp_comm" target="_blank">Wireless Private Network</a></li> 
+											<li><a href="http://e.huawei.com/en/solutions/industries?source=corp_comm" class="link-red" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-industries');" target="_blank">Giải pháp theo ngành</a></li>
+											<li><a href="http://e.huawei.com/en/solutions?source=corp_comm" class="see-all" onclick="ga('send', 'event', 'navbar', 'b2b', 'ent-seeallsolutions');" target="_blank">Xem tất cả</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                        <!--<div class="col-md-4">
+                          <div class="list-nav">
+                            <h4>Dịch vụ</h4>
+                            <ul class="list-unstyled">
+                                     											<li><a href="http://e.huawei.com/en/services/digital-transformation-journey/advisory-implementation?source=corp_comm" target="_blank" >Dịch vụ Vòng đời ICT</a></li>
+											<li><a href="http://e.huawei.com/en/services/technology-surpport/network?source=corp_comm" target="_blank" >Dịch vụ công nghệ</a></li>
+											<li><a href="http://e.huawei.com/en/services/industries-solutions?source=corp_comm" target="_blank" >Dịch vụ Giải pháp Công nghiệp</a></li>
+											<li><a href="http://e.huawei.com/en/services?source=corp_comm" class="see-all" target="_blank" >Xem tất cả</a></li>
+                            </ul>
+                          </div>
+                        </div>-->
+                      </div>
+                    </div>
+                  
+                        <div class="col-md-6">
+                      <h3 class="collapsed" data-toggle="collapse" data-target="#header-list-1" aria-controls="header-list-1" aria-expanded="true">CHO VẬN CHUYỂN
+ <span class="iconfont icon-arrow-down"></span>
+                        <div class="line"></div>
+                      </h3>
+                      <div class="row collapse navbar-collapse" id="header-list-1">
+                        <div class="col-md-4">
+                          <div class="list-nav">
+                            <h4>Các sản phẩm</h4>
+                            <ul class="list-unstyled">
+                         
+    											<li><a href="http://carrier.huawei.com/en/products/wireless-network" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-wireless');" target="_blank">Mạng vô tuyến (di động)</a></li>
+											<li><a href="http://carrier.huawei.com/en/products/fixed-network" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-fixednetwork');" target="_blank">Mạng hữu tuyến (cố định)</a></li>
+											<li><a href="http://carrier.huawei.com/en/products/core-network" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-corenetwork');" target="_blank">Mạng lõi Đám mây</a></li>
+											<li><a href="http://carrier.huawei.com/en/products/carrier-software" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-carriersoftware');" target="_blank">Phần mềm Hạ tầng mạng viễn thông</a></li>
+											<li><a href="http://carrier.huawei.com/en/products" class="see-all" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-seeallproducts');" target="_blank">Xem tất cả</a></li>
+
+                            </ul>
+                          </div>
+                        </div>
+                      <div class="col-md-4">
+                          <div class="list-nav">
+                            <h4>Dịch vụ</h4>
+                            <ul class="list-unstyled">
+                         
+   																				<li><a href="http://carrier.huawei.com/en/services/consulting-service" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-consutlingservice');" target="_blank">Consulting Service</a></li>
+										<li><a href="http://carrier.huawei.com/en/services/system-integration-service" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-integrateservice');" target="_blank">System Integration Service</a></li>
+										<li><a href="http://carrier.huawei.com/en/services/managed-services" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-managedservice');" target="_blank">Managed Services</a></li>
+										<li><a href="http://carrier.huawei.com/en/services/learning-solutions" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-learningservice');" target="_blank">Learning Service</a></li>
+										<li><a href="http://carrier.huawei.com/en/services" class="see-all" onclick="ga('send', 'event', 'navbar', 'b2b', 'car-seeallservices');" target="_blank">Xem tất cả</a></li>
+
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="nav-open-other">
+                  <div class="container-custom">
+                    <div class="row">
+                      <div class="col-md-3 col-sm-12 col-xs-12">
+                        <a href="https://e.huawei.com/tr/">
+                          <span class="iconfont icon-website"></span>
+                          <span>Enterpise Website</span>
+                          <span class="hwic_open-in-new3"></span>
+                        </a>
+                      </div>
+                      <div class="col-md-3 col-sm-12 col-xs-12">
+                        <a href="https://carrier.huawei.com/en/">
+                          <span class="iconfont icon-service"></span>
+                          <span>Carrier Website</span>
+                          <span class="hwic_open-in-new3"></span>
+                        </a>
+                      </div>
+                      <!--<div class="col-md-3 col-sm-12 col-xs-12">
+                        <a href="#" >
+                          <span class="iconfont icon-feedback"></span>
+                          <span>Huawei Cloud Website</span>
+                          <span class="hwic_open-in-new3"></span>
+                        </a>
+                      </div>-->
+                      <a href="javascript:;" class="btn-close-nav-ani hidden-sm hidden-xs"><span class="iconfont icon-close"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+                                
+                            </li>
+                        
+                            <li class="menu-list hover-open ">
+                                
+                                    <a href="javascript:;" target="" class="btn-next collapsed hw-navbar-text">
+                                        Về Huawei                                             
+                                        <span class="iconfont icon-arrow-right hidden-md hidden-lg"></span>
+                                    </a>
+                                    <div class="nav-open help menu-fixed-right">
+<a href="javascript:;" class="btn-nav-back hidden-md hidden-lg">
+<span class="iconfont icon-arrow-lift"></span>
+Trở lại menu ch&iacute;nh
+</a>
+<div class="nav-ani">
+<div class="title hidden-md hidden-lg">Về Huawei</div>
+<div class="mask"></div>
+<div class="container-custom">
+<div class="row">
+<div class="col-md-4">
+<h3 class="collapsed" data-toggle="collapse" data-target="#header-list-12" aria-controls="header-list-12" aria-expanded="true">Về Huawei<span class="iconfont icon-arrow-down"></span>
+<div class="line"></div>
+</h3>
+<div class="list-nav collapse navbar-collapse row" id="header-list-12">
+<ul class="list-unstyled col-md-6">
+    <li><a href="/vn/corporate-information" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'corporateinfo');">Th&ocirc;ng tin Doanh nghiệp</a></li>
+    <li><a href="https://www.huawei.com/en/press-events/annual-report" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'annualreports');">B&aacute;o c&aacute;o Thường ni&ecirc;n</a></li>
+    <li><a href="/vn/corporate-governance" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'corporategovernance');">Quản trị Doanh nghiệp</a></li>
+    <li><a href="/vn/contact-us" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'contactus');">Li&ecirc;n hệ với ch&uacute;ng t&ocirc;i</a></li>
+</ul>
+<ul class="list-unstyled col-md-6">
+    <li><a href="https://www.huawei.com/en/sustainability" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'sustainability');">Ph&aacute;t triển bền vững</a></li>
+    <li><a href="https://www.huawei.com/en/about-huawei/trust-center/" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'trustcenter');">An ninh Mạng</a></li>
+    <li><a href="/vn/corporate-information/local-states" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'industryanalysts');">Huawei Việt Nam</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<h3 class="collapsed" data-toggle="collapse" data-target="#header-list-13" aria-controls="header-list-13" aria-expanded="true">Nhấn &amp; Sự kiện<span class="iconfont icon-arrow-down"></span>
+<div class="line"></div>
+</h3>
+<div class="list-nav collapse navbar-collapse" id="header-list-13">
+<ul class="list-unstyled">
+    <li><a href="/vn/news" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'news');">Tin tức</a></li>
+    <li><a href="https://www.huawei.com/en/events" target="_blank" onclick="ga('send', 'event', 'navbar', 'abouthuawei', 'events');">C&aacute;c sự kiện</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<a href="https://www.huawei.com/en/fully-connected-intelligent-world"><img src="~/media/CORP2020/Index/nav-img-2.jpg" class="nav-img nav-img2 pull-right hidden-xs hidden-sm" alt="Building a Fully Connected, Intelligent World"></a>
+</div>
+<a href="javascript:;" class="btn-close-nav-ani hidden-sm hidden-xs"><span class="iconfont icon-close"></span></a>
+</div>
+</div>
+</div>
+</div>
+                                
+                            </li>
+                        
+
+                    
+                </ul>
+            </nav>
+
+            <!-- 搜索框 -->
+            <div class="search-box search-hide" id="header-search">
+                <input type="text" placeholder="Tìm" class="js-search-header-input-popup" id="js-search-header-input-popup">
+                <a href="#" onclick="ga('send', 'event', 'search', 'top', $(this).prev().val())" class="btn-search"><span class="hwic_search"></span></a>
+                <a href="#" class="btn-close"><span class="hwic_cross"></span></a>
+                <div class="b-search-keyword"></div>
+                <div class="search-keyword hidden-lg hidden-md">
+                    <div class="search-keyword-title">
+                        
+                    </div>
+                    <ul>
+                        
+                    </ul>
+                </div>
+            </div>
+            <!-- 右侧导航 -->
+            <div class="nav-right">
+                
+                <a href="javascript:;" data-target="#header-search" onclick="ga('send', 'event', 'search', 'top_open')" class="btn-open-search">
+                    <span class="iconfont icon-search"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="mask-bg"></div>
+</header>
+
+
+
+
+    <div class="main">
+        <!--HWDocContent-->
+        
+<!--HWDocMeta-->
+<meta name="APP_ID" content="CORP_VN001"> <!--站点ID-->
+<meta name="DOC_ID" content="{5BEAE861-FE8E-41E5-BA96-970D920C1F21}">    <!--文档id-->
+<meta name="DRETITLE" content="Huawei Việt Nam"> <!--文档标题-->
+<meta name="DREDATE" content="12/15/2020">  <!--发布日期 格式：月/日/年 例：08/12/2020 -->
+<meta name="DOC_LANGUAGE" content="vi-VN">  <!--文档语言，例zh,en,ru -->
+<meta name="DOC_KEYWORDS" content="Telecom Networks,Radio Access Network, Network, Core Network, Applications and Software, Sites Solutions, Global Services, System Integration Solution, Assurance Solution, Learning Solution, Devices, Mobile broadband devices, Handsets, Convergence devices, Video solutions">    <!--文档搜索关键词-->
+<meta name="DOC_DESCRIPTION" content="Huawei l&#224; nh&#224; cung cấp c&#225;c giải ph&#225;p ICT h&#224;ng đầu to&#224;n cầu, ch&#250;ng t&#244;i đ&#227; tạo ra những lợi thế tổng thể v&#224; to&#224;n vẹn trong c&#225;c hệ thống mạng viễn th&#244;ng, c&#225;c thiết bị v&#224; điện to&#225;n đ&#225;m m&#226;y.">   <!--文档描述-->
+<meta name="DOC_MODIFY_DATE" content="1607990400">  <!--发布日期的时间戳，用来按日期排序-->
+<meta name="DREDATE_YEAR_MONTH" content="2020-12">    <!--发布日期的年月，例:2020-08 -->
+<meta name="RESERVE_FIELD1" content="corp-vn">   <!--站点名称，如corporate/enterprise-->  
+<meta name="RESERVE_FIELD2" content="others">    <!--类别，如标记是产品还是新闻-->
+<meta name="RESERVE_FIELD11" content="12/15/2020">   <!--发布日期 格式：月/日/年 例：08/12/2020， 同DREDATE -->
+<meta name="RESERVE_FIELD19" content="Telecom Networks,Radio Access Network, Network, Core Network, Applications and Software, Sites Solutions, Global Services, System Integration Solution, Assurance Solution, Learning Solution, Devices, Mobile broadband devices, Handsets, Convergence devices, Video solutions">   <!--文档搜索关键词，同DOC_KEYWORDS -->
+<meta name="RESERVE_FIELD22" content="">  <!--类别下的细分子类，目前集团没有用 -->
+<meta name="RESERVE_FIELD32" content="">    <!--产品图片-->
+<!--/HWDocMeta-->
+
+        
+<div class="index-banner container-fluid   mb70">
+    <div class="swiper-container js-swiper-container slick" data-slides-per-view="1" data-slides-per-group="1" data-loop="true" data-autoplay='{"delay":4000, "disableOnInteraction": true}'>
+        <div class="swiper-wrapper">
+            
+                    <div class="swiper-slide slide">
+                        <img src="//www-file.huawei.com/-/media/corp2020/home/banner/1/p40s5g-en.jpg" id="content_0_rptBannerList_imgCard_0" class="banner-img hidden-xs hidden-sm js-no-zoom lazyload" alt="p40s5g en">
+                        <img src="//www-file.huawei.com/-/media/corp2020/home/banner/1/p40s5g-en-m.jpg" id="content_0_rptBannerList_imgMCard_0" class="banner-img hidden-md hidden-lg js-no-zoom lazyload" alt="p40s5g en m">
+                        <div class="rich-text-1">
+  <a class="btn-more btn-black" href="https://consumer.huawei.com/vn/phones/p40-pro/" onclick="ga('send', 'event', 'corp_hp_clicks', 'banner1', 'p40s5g');">Tìm hiểu thêm</a>
+</div>
+<style>
+  /*pc*/
+  .rich-text-1 {
+    text-align: left;
+    top: 61%;
+    left: 15%;
+    position: absolute;
+    margin: 0;
+    width: 30%;
+  }
+
+  .index-banner .slick .slide .rich-text-1 a.btn-more{
+    left: 50%;
+    margin-left: -90px;
+  }
+  @media(max-width: 1500px){
+    .rich-text-1 {
+       left: 15%;
+    }
+  }
+  /*ipad pro*/
+  @media(max-width: 1366px) {
+    .rich-text-1 {
+          left: 15%;
+    }
+  }
+  @media (max-width:1200px) {
+    .rich-text-1 {
+        left: 15%;
+    }
+  }
+  @media (min-width: 991px) and (max-width:1024px) {
+    .rich-text-1 {
+        left: 15%;
+      }
+    .index-banner .slick .slide .rich-text-1 a.btn-more{
+    left: 50%;
+    margin-left: -90px;
+    }
+  }
+  /*moblie ipad*/
+  @media (max-width: 991px) {
+    .rich-text-1 h3 {
+      font-size: 1.8em;
+      color: #fff;
+    }
+
+    .rich-text-1 p {
+      font-size: 1.2em;
+      color: #fff;
+      margin-bottom: 1em;
+    }
+
+    .rich-text-1 {
+      text-align: center;
+      top:57%;
+      left: 11%;
+      position: absolute;
+      margin: 0;
+      width: 80%;
+    }
+
+    .index-banner .slick .slide .rich-text-1 a.btn-more {
+      top: 100%;
+      left:auto;
+    }
+  }
+</style>
+                        
+                        
+                    </div>
+                
+                    <div class="swiper-slide slide">
+                        <img id="content_0_rptBannerList_imgCard_1" class="banner-img hidden-xs hidden-sm js-no-zoom lazyload" data-src="//www-file.huawei.com/-/media/corp2020/home/banner/1/bciw-pc2.jpg" alt="bciw pc2">
+                        <img id="content_0_rptBannerList_imgMCard_1" class="banner-img hidden-md hidden-lg js-no-zoom lazyload" data-src="//www-file.huawei.com/-/media/corp2020/home/banner/1/bciw-en-m.jpg" alt="bciw en m">
+                        <div class="rich-text-2">
+  <a class="btn-more btn-white" onclick="ga('send', 'event', 'corp_hp_clicks', 'banner2', 'bciw2020');" href="https://www.huawei.com/en/fully-connected-intelligent-world">Tìm hiểu thêm</a>
+</div>
+<style>
+  /*pc*/
+  .rich-text-2 {
+    text-align: center;
+    top: 50%;
+    left: 20%;
+    position: absolute;
+    margin: 0;
+    width: 60%;
+  }
+
+  .rich-text-2 h3 {
+    font-size: 2.5em;
+    color: #fff;
+  }
+
+  .rich-text-2 p {
+    font-size: 1.2em;
+    color: #fff;
+    margin-bottom: 1em;
+  }
+  .index-banner .slick .slide .rich-text-2 a.btn-more{
+    left: 50%;
+    margin-left: -90px;
+  }
+  /*ipad pro*/
+  @media (min-width: 991px)and(max-width:1024px) {
+    .rich-text-2 {
+        top: 28%;
+        left: 20%;
+        width: 60%;
+      }
+    .index-banner .slick .slide .rich-text-2 a.btn-more{
+    left: 50%;
+    margin-left: -90px;
+    }
+  }
+  /*moblie ipad*/
+  @media (max-width: 991px) {
+    .rich-text-2 h3 {
+      font-size: 1.8em;
+      color: #fff;
+    }
+
+    .rich-text-2 p {
+      font-size: 1.2em;
+      color: #fff;
+      margin-bottom: 1em;
+    }
+
+    .rich-text-2 {
+      text-align: center;
+      top: 50%;
+      left: 11%;
+      position: absolute;
+      margin: 0;
+      width: 80%;
+    }
+
+    .index-banner .slick .slide .rich-text-2 a.btn-more {
+      top: 100%;
+      left:auto;
+    }
+  }
+</style>
+                        
+                        
+                    </div>
+                
+        </div>
+    </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+
+    
+</div>
+
+<!-- 图文列表 -->
+<div class="container-custom content-box tuijian-img   mb70">
+    
+    
+    <div class="title-box mb70">
+        <h2>Có gì mới</h2>
+        
+    </div>
+    
+    <div class="panel-img-list-mobile-slide hidden-md hidden-lg">
+        <div class="swiper-container js-swiper-container" data-slides-per-view="1" data-slides-per-group="1" data-loop="true" data-autoplay='{"delay":4000, "disableOnInteraction": true}'>
+            <div class="swiper-wrapper">
+                
+                        <div class="swiper-slide slide">
+                            <a href='https://e.huawei.com/en/products/cloud-communications/ideahub?ic_medium=hwdc&ic_source=corp_banner_row1left_ideahub&source=corp_comm' target='_blank' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'ideahub');">    
+                            <div class="img-box">
+                                <div class="mask"></div>
+
+                                <img src="//www-file.huawei.com/-/media/corp2020/home/box/1/ideahub-m.jpg" class="lazyload" alt="ideahub m">
+                                
+                            </div>
+                            <div class="text-box">
+                                <div class="category">PRODUCT</div>
+                                <div class="name js-text-dot-en">Huawei IdeaHub</div>
+                                <div id="content_1_rptUpdatesSlickList_plDesc_0" class="text">Intelligence at your fingertips</div>
+                            </div>
+                            </a>
+                        </div>
+                    
+                        <div class="swiper-slide slide">
+                            <a href='https://www.huawei.com/vn/corporate-information/local-states' target='' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_right', 'matepad_pro_5g');">    
+                            <div class="img-box">
+                                <div class="mask"></div>
+
+                                <img data-src="//www-file.huawei.com/-/media/corp2020/local-site/vn/image/home/ho-guom-sbanner-vn-m.jpg" class="lazyload" alt="ho guom sbanner vn m">
+                                
+                            </div>
+                            <div class="text-box">
+                                <div class="category">Thông tin doanh nghiệp</div>
+                                <div class="name js-text-dot-en">Huawei Việt Nam</div>
+                                
+                            </div>
+                            </a>
+                        </div>
+                    
+                        <div class="swiper-slide slide">
+                            <a href='https://consumer.huawei.com/vn/wearables/ ' target='_blank' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row2_left', 'watch_gt2');">    
+                            <div class="img-box">
+                                <div class="mask"></div>
+
+                                <img data-src="//www-file.huawei.com/-/media/corp2020/home/box/1/watchgt2-mob.jpg" class="lazyload" alt="watchGT2 mob">
+                                
+                            </div>
+                            <div class="text-box">
+                                <div class="category">PRODUCT</div>
+                                <div class="name js-text-dot-en">HUAWEI WATCH GT 2</div>
+                                <div id="content_1_rptUpdatesSlickList_plDesc_2" class="text">Long Battery Life to Explore More</div>
+                            </div>
+                            </a>
+                        </div>
+                    
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="panel-img-list">
+        
+                <div class="panel-img-box mb30 big-w mr hidden-sm hidden-xs">
+                    <a href='https://e.huawei.com/en/products/cloud-communications/ideahub?ic_medium=hwdc&ic_source=corp_banner_row1left_ideahub&source=corp_comm' target='_blank' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'ideahub');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/ideahub-pc.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/ideahub-m.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/1/ideahub-pc.jpg" alt="ideahub pc" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box text-box-1">
+                        <div class="category">PRODUCT</div>
+                        <div class="name js-text-dot-en">Huawei IdeaHub</div>
+                        <div id="content_1_rptUpdatesList_plDesc_0" class="text">
+                            Intelligence at your fingertips
+                        </div>
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box mb30 small-w hidden-sm hidden-xs">
+                    <a href='https://www.huawei.com/vn/corporate-information/local-states' target='' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_right', 'matepad_pro_5g');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/local-site/vn/image/home/ho-guom-sbanner-pc.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/local-site/vn/image/home/ho-guom-sbanner-vn-m.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/local-site/vn/image/home/ho-guom-sbanner-pc.jpg" alt="ho guom sbanner pc" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box ">
+                        <div class="category">Thông tin doanh nghiệp</div>
+                        <div class="name js-text-dot-en">Huawei Việt Nam</div>
+                        
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box mb30 small-w mr hidden-sm hidden-xs">
+                    <a href='https://consumer.huawei.com/vn/wearables/ ' target='_blank' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row2_left', 'watch_gt2');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/wa-pctchgt2.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/watchgt2-mob.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/1/wa-pctchgt2.jpg" alt="wa pctchGT2" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box text-box-1">
+                        <div class="category">PRODUCT</div>
+                        <div class="name js-text-dot-en">HUAWEI WATCH GT 2</div>
+                        <div id="content_1_rptUpdatesList_plDesc_2" class="text">
+                            Long Battery Life to Explore More
+                        </div>
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box mb30 big-w">
+                    <a href='https://consumer.huawei.com/vn/laptops/' target='_blank' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row2_right', 'matebook_x_pro_2020');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/matebookxpro2020-pc.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/1/matebookxpro2020-mob.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/1/matebookxpro2020-pc.jpg" alt="Matebookxpro2020 pc" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box text-box-1">
+                        <div class="category">PRODUCT</div>
+                        <div class="name js-text-dot-en">HUAWEI MateBook</div>
+                        <div id="content_1_rptUpdatesList_plDesc_3" class="text">
+                            Borderless Experience
+                        </div>
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box mr small-w">
+                    <a href='https://www.huawei.com/en/about-huawei/publications/winwin-magazine/34/ska-shooting-for-the-stars-with-ai' target='' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row3_left', 'ska');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_ska.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_ska.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/banner/featured_ska.jpg" alt="featured ska" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box ">
+                        <div class="category">CASE STUDY</div>
+                        <div class="name js-text-dot-en">SKA: Shooting for the Stars with AI</div>
+                        
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box mr small-w">
+                    <a href='https://www.huawei.com/en/about-huawei/publications/winwin-magazine/36/hexa-iot-hwcloud' target='' onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row3_center', 'hexa');">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_hexa_iot.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_hexa_iot.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/banner/featured_hexa_iot.jpg" alt="featured hexa iot" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box ">
+                        <div class="category">CASE STUDY</div>
+                        <div class="name js-text-dot-en">How AI is Spicing up the Food Industry</div>
+                        
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+                <div class="panel-img-box small-w">
+                    <a href='https://www.huawei.com/en/about-huawei/publications/winwin-magazine/36/cloud-based-classroom-amid-virus-outbreak' target='' onclick="">    
+                    <div class="img-box">
+                        <div class="mask"></div>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_cloudbasedclassroom.jpg" media="(min-width: 992px)"></source><source data-srcset="//www-file.huawei.com/-/media/corp2020/banner/featured_cloudbasedclassroom.jpg" media="(max-width: 991px)"></source><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/banner/featured_cloudbasedclassroom.jpg" alt="featured cloudbasedclassroom" class="lazyload"></picture>
+                        
+                        
+                    </div>
+                   
+
+                    <div class="text-box ">
+                        <div class="category">CASE STUDY</div>
+                        <div class="name js-text-dot-en">How School Moved to Cloud this Semester</div>
+                        
+                        <div class='read-more color-white hidden-sm hidden-xs'><span>Tìm hiểu thêm</span><i class='iconfont icon-arrow-right'></i></div>
+                    </div>
+                    </a>
+                </div>
+            
+    </div>
+</div>
+
+<div class="content-img-box   mb70">
+
+    
+      <picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source data-srcset="//www-file.huawei.com/-/media/corp2020/home/sbanner/1/dragon-fruit-en.jpg" media="(min-width: 992px)"></source>
+            <source data-srcset="//www-file.huawei.com/-/media/corp2020/home/sbanner/1/dragon-fruit-en-m.jpg" media="(max-width: 991px)"></source>
+            <!--[if IE 9]></video><![endif]-->
+            <img data-src="//www-file.huawei.com/-/media/corp2020/home/sbanner/1/dragon-fruit-en.jpg" alt="dragon fruit en" class="bg js-no-zoom lazyload">
+      </picture>
+    
+
+    
+    <div class="content-box">
+
+        <div class="indexlaptop-text">
+
+    <a href="https://www.huawei.com/en/tech4all/stories/guangxi-fttr-dragon-fruit" class="btn-rect-white hidden-xs hidden-sm btn-left" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'sbanner', 'tech4all');">T&igrave;m hiểu th&ecirc;m</a>
+    <a href="https://www.huawei.com/en/tech4all/stories/guangxi-fttr-dragon-fruit" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'sbanner', 'tech4all');" class="hidden-md hidden-lg mobile-link"></a>
+</div>
+
+<style>
+    /*PC*/
+    .indexlaptop-text {
+        position: relative;
+        top: 80%;
+        transform: translateY(-50%);
+        max-width: 75%;
+        margin: 0 auto;
+       text-align: center
+    }
+
+    .indexlaptop-text .btn-left {
+        position: relative;
+        transform: translateX(0%);
+        left: -42.5%;
+        top: auto;
+    }
+
+    .indexlaptop-text .vertical-middle-sm h2 {
+        text-align: center;
+    }
+
+    .content-img-box .content-box .indexlaptop-text .subtitle {
+        text-align: center;
+    }
+
+    @media (min-width: 992px) {
+        .content-img-box .content-box .indexlaptop-text .subtitle {
+            max-width: 100%;
+        }
+    }
+@media (min-width:1920px) and (max-width: 2560px) {
+       .indexlaptop-text .btn-left{
+position: relative;
+        transform: translateX(0%);
+        left: -42.6%;
+        top: auto;
+    }
+  }
+
+
+@media (max-width:1550px) {
+       .indexlaptop-text .btn-left{
+position: relative;
+        transform: translateX(0%);
+        left: -40%;
+        top: auto;
+    }
+  }
+
+@media (max-width:1280px) {
+       .indexlaptop-text .btn-left{
+position: relative;
+        transform: translateX(0%);
+        left: -39.5%;
+        top: auto;
+    }
+  }
+    /*ipad pro*/
+    @media(min-width: 992px) and (max-width: 1024px) {
+        .indexlaptop-text {
+            position: relative;
+            top: 77%;
+            transform: translateY(-50%);
+            max-width: 75%;
+        }
+
+        .indexlaptop-text .btn-left {
+            transform: translateX(0%);
+            left: -39%;
+            top: auto;
+        }
+
+        .indexlaptop-text .vertical-middle-sm h2 {
+            text-align: center;
+        }
+
+        .content-img-box .content-box .indexlaptop-text .subtitle {
+            text-align: center;
+        }
+
+        @media (min-width: 992px) {
+            .content-img-box .content-box .indexlaptop-text .subtitle {
+                max-width: 100%;
+            }
+        }
+    }
+
+    /*moblie ipad*/
+    @media (max-width: 991px) {
+        .indexlaptop-text {
+            position: relative;
+            top: 60%;
+            transform: translateY(-50%);
+            max-width: 90%;
+            height: 100%;
+        }
+
+        .indexlaptop-text .btn-left {
+            transform: translateX(0%);
+            left: auto;
+            top: auto;
+        }
+
+        .indexlaptop-text .vertical-middle-sm h2 {
+            text-align: center;
+        }
+
+        .content-img-box .content-box .indexlaptop-text .subtitle {
+            text-align: center;
+        }
+
+        @media (min-width: 992px) {
+            .content-img-box .content-box .indexlaptop-text .subtitle {
+                max-width: 100%;
+            }
+        }
+    }
+
+    @media (max-width: 767px) {
+        .content-box .indexlaptop-text h2:after {
+            display: none;
+        }
+    }
+</style>
+        
+
+    </div>
+</div>
+
+<!-- 支持与联系   -->
+<div class="index-service   mb70">
+    <div class="content-box container-custom">
+        <div id="content_3_h2Title" class="title-box mb70">
+            <h2 id="content_3_h2sctTitle">Nhấn &amp; Sự kiện</h2>
+        </div>
+        <div class="row"> 
+            
+                    <div class="col-xs-12 col-md-4 col-item type2">  
+                        <a href='/vn/news/vn/2022/huaweis-ryan-ding-duide-to-a-better-digital-economy' onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_card1', '/vn/news/vn/2022/huaweis-ryan-ding-duide-to-a-better-digital-economy')" target="">
+                        <div class="imgbox">
+                           <img data-src="//www-file.huawei.com/-/media/corporate/local-site/vn/images/news 2022/2- ryan ding wmc 2022.jpg" class="photo lazyload" alt="2  Ryan Ding WMC 2022">
+                        </div>
+                        
+                            <div class="type">
+                                <span>
+                                    Tin tức
+                                </span>
+                            </div>
+                        
+                        <div class="textbox">
+                            <div class="overtext js-text-dot-en">
+                                <h4 class="title">
+                                    Ryan Ding của Huawei: Cùng tham gia vào kế hoạch kinh doanh “GUIDE” cho nền kinh số tốt đẹp hơn
+                                </h4>
+                                <div class="info">
+                                    
+                                    
+                                        <div class="time">
+                                            2022.02.27
+                                        </div>
+                                    
+                                </div>
+                                <div class="text">
+                                    tại Diễn đ&agrave;n Huawei Day 0, tổ chức ngay trước thềm Triển l&atilde;m Di động To&agrave;n cầu MWC22 Barcelona một ng&agrave;y, Ryan Ding, Gi&aacute;m đốc Điều h&agrave;nh ki&ecirc;m Chủ tịch Nh&oacute;m kinh doanh Hạ tầng viễn th&ocirc;ng (Carrier BG) của Huawei vừa c&oacute; b&agrave;i ph&aacute;t biểu quan trọng mang t&ecirc;n "Thắp s&aacute;ng tương lai". &Ocirc;ng Ding nhấn mạnh c&aacute;c nh&agrave; khai th&aacute;c mạng n&ecirc;n l&agrave;m việc dựa tr&ecirc;n ba yếu tố: mật độ kết nối, đa dạng điện to&aacute;n v&agrave; mật độ giảm thiểu carbon; đồng thời k&ecirc;u gọi c&aacute;c nh&agrave; khai th&aacute;c tham gia c&ugrave;ng Huawei tham gia v&agrave;o kế hoạch kinh doanh &ldquo;GUIDE&rdquo; nhằm kiến tạo n&ecirc;n nền kinh tế số tốt hơn.
+                                </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                
+                    <div class="col-xs-12 col-md-4 col-item type2">  
+                        <a href='/vn/news/vn/2021/huawei-deciphers-energy-transition-trends-to-2025' onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_card2', '/vn/news/vn/2021/huawei-deciphers-energy-transition-trends-to-2025')" target="">
+                        <div class="imgbox">
+                           <img data-src="//www-file.huawei.com/-/media/corporate/local-site/vn/images/news2021/2- le nho thong hw vn.jpg" class="photo lazyload" alt="2  Le Nho Thong HW VN">
+                        </div>
+                        
+                            <div class="type">
+                                <span>
+                                    Tin tức
+                                </span>
+                            </div>
+                        
+                        <div class="textbox">
+                            <div class="overtext js-text-dot-en">
+                                <h4 class="title">
+                                    Huawei giải mã xu hướng chuyển đổi năng lượng đến năm 2025
+                                </h4>
+                                <div class="info">
+                                    
+                                    
+                                        <div class="time">
+                                            2021.12.18
+                                        </div>
+                                    
+                                </div>
+                                <div class="text">
+                                    <p>Được xem l&agrave; kỷ nguy&ecirc;n chuyển đổi năng lượng, Huawei nhận định từ đ&acirc;y đến năm 2025,&nbsp; sẽ c&oacute; nhiều xu hướng sử dụng năng lượng mới trong lĩnh vực viễn th&ocirc;ng, trong đ&oacute; c&oacute;: số ho&aacute; năng lượng, mạng lưới viễn th&ocirc;ng &ldquo;kh&ocirc;ng carbon&rdquo;, thay thế pin lead-acid bằng pin Lithium, ứng dụng 5G trong đời sống, đa dạng h&oacute;a nguồn năng lượng, hệ thống xe hơi tự l&aacute;i,&hellip; nhằm mang lại hiệu quả cao hơn v&agrave; đ&aacute;ng tin cậy hơn.</p>
+                                </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                
+            
+            <div class="col-xs-12 col-md-4 col-item news-item">
+                <div id="wrapper" class="list-box">
+                    <div id="scroller">
+                        <div class="type">
+                            <span>
+                                Tin tức
+                            </span>
+                        </div>
+                        
+                                <a href="/vn/news/vn/2022/huawei-debuts-digital-solutions-at-mwc2022-to-empower-apac-green-development" target="" onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_list', '/vn/news/vn/2022/huawei-debuts-digital-solutions-at-mwc2022-to-empower-apac-green-development')">
+                                    <h4>
+                                        Huawei ra mắt các giải pháp kỹ thuật số tại MWC2022 để trao quyền cho sự phát triển xanh của khu vực Châu Á Thái Bình Dương
+                                    </h4>
+                                    <div class="time">2022.03.01</div>
+                                </a>
+                            
+                                <a href="/vn/news/vn/2022/vietnamese-students-win-second-prize-in-390-groups-at-hw-global-competition" target="" onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_list', '/vn/news/vn/2022/vietnamese-students-win-second-prize-in-390-groups-at-hw-global-competition')">
+                                    <h4>
+                                        Sinh viên Việt Nam đạt giải Nhì trong 390 nhóm tại cuộc thi toàn cầu của Huawei
+                                    </h4>
+                                    <div class="time">2022.01.21</div>
+                                </a>
+                            
+                                <a href="/vn/news/vn/2021/malaysia-prime-minister-lauches-hw-customer-solution-innovation-center" target="" onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_list', '/vn/news/vn/2021/malaysia-prime-minister-lauches-hw-customer-solution-innovation-center')">
+                                    <h4>
+                                        Thủ tướng Malaysia tham dự lễ ra mắt Trung tâm Đổi mới Giải pháp Khách hàng của Huawei
+                                    </h4>
+                                    <div class="time">2021.11.23</div>
+                                </a>
+                            
+                                <a href="/vn/news/vn/2021/huawei-is-ready-to-cooperate-with-universities-and-academies-in-vietnam" target="" onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_list', '/vn/news/vn/2021/huawei-is-ready-to-cooperate-with-universities-and-academies-in-vietnam')">
+                                    <h4>
+                                        Huawei sẵn sàng hợp tác với các trường đại học, học viện ở Việt Nam  để phát triển tài năng số
+                                    </h4>
+                                    <div class="time">2021.11.17</div>
+                                </a>
+                            
+                                <a href="/vn/news/vn/2021/huawei-will-stand-with-vietnam-to-achieve-the-goal-of-net-zero-emissions-by-2050" target="" onclick="ga('send', 'event', ' corp_hp_clicks', 'news_event_list', '/vn/news/vn/2021/huawei-will-stand-with-vietnam-to-achieve-the-goal-of-net-zero-emissions-by-2050')">
+                                    <h4>
+                                        Huawei sẽ sát cánh cùng Việt Nam thực hiện mục tiêu đạt mức phát thải ròng bằng “0” vào năm 2050
+                                    </h4>
+                                    <div class="time">2021.11.10</div>
+                                </a>
+                            
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="btn-group">
+            
+            <a href="/vn/news" class="btn-rect">
+                Th&#234;m tin tức
+            </a>
+        </div>
+    </div>
+</div>
+
+        <!--/HWDocContent-->
+    </div>
+
+    <!-- 底部 -->
+    
+<a href="javascript:;" class="btn-go-top"><span class="iconfont icon-arrow-up" onclick="ga('send', 'event', 'sidebutton', 'scroll_to_top')"></span></a>
+
+<!-- 底部 -->
+<footer>
+    <div class="container-custom">
+        <div class="top-line ">
+            
+            
+
+<div class="pull-left ">
+    
+    <a href="/vn" class="index" onclick="ga('send', 'event', 'footerbreadcrumb', '/vn')">Trang chủ</a>
+    
+</div>
+
+            <div class="search-box search-hide" id="footer-search">
+                <input type="text" placeholder="Tìm" class="js-search-footer-input-popup" id="js-search-footer-input-popup">
+                <a href="#" onclick="ga('send', 'event', 'search', 'bottom',$(this).prev().val())" class="btn-search">
+                    <span class="hwic_search"></span>
+                </a>
+                <a href="#" class="btn-close">
+                    <span class="hwic_cross"></span>
+                </a>
+                <div class="b-search-keyword"></div>
+            </div>
+            <a href="javascript:;" data-target="#footer-search" onclick="ga('send', 'event', 'search', 'bottom_open')" class="btn-open-search">
+                <span class="iconfont icon-search"></span>
+            </a>
+        </div>
+        <div class="footer-nav row">
+            
+                    <div id="footer_0_NavigateRepeater_plNavi_0" class="col-md-2">
+                        
+                            <h3 class="collapsed" data-toggle="collapse" data-target="#footer-list-0" aria-controls="footer-list-0" aria-expanded="false">
+                                Về Huawei 
+                                <span class="iconfont icon-arrow-down hidden-md hidden-lg"></span></h3>
+                        
+                        
+                            <ul class="list-unstyled collapse navbar-collapse" id="footer-list-0">
+                                
+                                        <li>
+                                            
+                                                <a href="/vn/corporate-information" target="_self" onclick="ga('send', 'event', 'footernav', 'about', 'corpinfo');">
+                                                    Th&#244;ng tin về Huawei
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="https://www.huawei.com/en/press-events/annual-report" target="_blank" onclick="ga('send', 'event', 'footernav', 'about', 'annualreports');">
+                                                    B&#225;o c&#225;o Thường ni&#234;n
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="/vn/corporate-governance" target="_self" onclick="ga('send', 'event', 'footernav', 'about', 'corpgovernance');">
+                                                    Quản trị Doanh nghiệp
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="https://www.huawei.com/en/sustainability" target="_blank" onclick="ga('send', 'event', 'footernav', 'about', 'sustainability');">
+                                                    Ph&#225;t triển bền vững
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="/vn/corporate-information/local-states" target="_self" onclick="ga('send', 'event', 'footernav', 'about', 'publicpolicy');">
+                                                    Huawei Việt Nam
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                
+                            </ul>
+                        
+                        
+                    </div>
+                    
+                
+                    <div id="footer_0_NavigateRepeater_plNavi_1" class="col-md-2">
+                        
+                            <h3 class="collapsed" data-toggle="collapse" data-target="#footer-list-1" aria-controls="footer-list-1" aria-expanded="false">
+                                Nhấn &amp; Sự kiện 
+                                <span class="iconfont icon-arrow-down hidden-md hidden-lg"></span></h3>
+                        
+                        
+                            <ul class="list-unstyled collapse navbar-collapse" id="footer-list-1">
+                                
+                                        <li>
+                                            
+                                                <a href="/vn/news" target="_self" onclick="ga('send', 'event', 'footernav', 'newsevents', 'news');">
+                                                    Tin tức
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="https://www.huawei.com/en/press-events/events" target="_self" onclick="">
+                                                    C&#225;c sự kiện
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                
+                            </ul>
+                        
+                        
+                    </div>
+                    
+                
+                    <div id="footer_0_NavigateRepeater_plNavi_2" class="col-md-2">
+                        
+                            <h3 class="collapsed" data-toggle="collapse" data-target="#footer-list-2" aria-controls="footer-list-2" aria-expanded="false">
+                                SẢN PHẨM
+                                <span class="iconfont icon-arrow-down hidden-md hidden-lg"></span></h3>
+                        
+                        
+                            <ul class="list-unstyled collapse navbar-collapse" id="footer-list-2">
+                                
+                                        <li>
+                                            
+                                                <a href="https://consumer.huawei.com/vn/" target="_blank" onclick="ga('send', 'event', 'footernav', 'products', 'consumer');">
+                                                    Consumers
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="https://e.huawei.com/en/" target="_blank" onclick="ga('send', 'event', 'footernav', 'products', 'enterprise');">
+                                                    Enterprises
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="https://carrier.huawei.com/en/" target="_blank" onclick="ga('send', 'event', 'footernav', 'products', 'carrier');">
+                                                    Carriers
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                
+                            </ul>
+                        
+                        
+                    </div>
+                    
+                
+                    <div id="footer_0_NavigateRepeater_plNavi_3" class="col-md-2">
+                        
+                            <h3 class="collapsed" data-toggle="collapse" data-target="#footer-list-3" aria-controls="footer-list-3" aria-expanded="false">
+                                Hỗ trợ Kỹ thuật
+                                <span class="iconfont icon-arrow-down hidden-md hidden-lg"></span></h3>
+                        
+                        
+                            <ul class="list-unstyled collapse navbar-collapse" id="footer-list-3">
+                                
+                                        <li>
+                                            
+                                                <a href="http://consumer.huawei.com/vn/support/" target="_blank" onclick="ga('send', 'event', 'footernav', 'support', 'consumer');">
+                                                    Hỗ trợ người ti&#234;u d&#249;ng
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="http://support.huawei.com/enterprise/en/index.html" target="_blank" onclick="ga('send', 'event', 'footernav', 'support', 'enterprise');">
+                                                    Hỗ trợ Doanh nghiệp
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a href="http://support.huawei.com/carrier/en/hwe/index.html" target="_blank" onclick="ga('send', 'event', 'footernav', 'support', 'carrier');">
+                                                    Hỗ trợ nh&#224; cung cấp
+                                                </a>
+                                            
+                                            
+                                        </li>
+                                    
+                                
+                            </ul>
+                        
+                        
+                    </div>
+                    
+                
+            
+            
+        </div>
+        <div class="footer-other-link">
+            <ul class="link list-unstyled">
+                
+                        <li>
+                            
+                                <a href="http://solar.huawei.com/apac" target="_blank" onclick="ga('send', 'event', 'footernav', 'other', 'solar');">
+                                    FusionSolar Smart PV
+                                </a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </div>
+        <ul class="share-box list-unstyled">
+            
+            <li><a href="http://www.linkedin.com/company/huawei" title="Follow us on Linkedin" onclick="ga('send', 'event', 'footernav', 'linkedin');" target="_blank"><span class="hwic_linkedin"></span></a></li>
+<li><a href="https://www.facebook.com/HuaweiTechVN/" title="Follow us on Facebook" onclick="ga('send', 'event', 'footernav', 'facebook');" target="_blank"><span class="hwic_facebook"></span></a></li>
+<li><a href="http://www.youtube.com/Huawei/" title="Follow us on Linkedin" onclick="ga('send', 'event', 'footernav', 'youtube');" target="_blank"><span class="hwic_youtube"></span></a></li>
+
+        </ul>
+    </div>
+    <div class="copy">
+        <div class="container">
+            <div class="copy-text">
+                <span>
+                    
+                        <span id="footer_0_tCopyRight">©2022 Huawei Technologies Co., Ltd.</span>
+                    
+                    <div class="line"></div>
+                </span>
+                <ul class="list-unstyled">
+                    
+                            <li>
+                                
+                                    <a href="/vn/contact-us" onclick="ga('send', 'event', 'footernav', 'outnav', 'contactus');" target="_self">
+                                        Li&#234;n hệ với ch&#250;ng t&#244;i
+                                    </a>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/vn/legal" onclick="ga('send', 'event', 'footernav', 'outnav', 'termsofuse');" target="_self">
+                                        Điều khoản sử dụng
+                                    </a>
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/vn/privacy-policy" onclick="ga('send', 'event', 'footernav', 'outnav', 'privacy');" target="_self">
+                                        Chính sách Quyền ri&#234;ng tư
+                                    </a>
+                                
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+    <!--[if IE 8]>
+   <script type="text/javascript" src="/Assets/corp/2020/js/lib/core-js.min.js"></script>
+   <script type="text/javascript" src="/Assets/corp/2020/js/lib/jquery-1.12.2.min.js"></script>
+<![endif]-->
+<!--[if gt IE 8]><!-->
+   <script type="text/javascript" src="/Assets/corp/2020/js/lib/jquery-3.4.1.min.js?ver=202203112025"></script>
+<!--<![endif]-->
+<script type="text/javascript" src="/Assets/corp/2020/js/lib/bootstrap.min.js?ver=202203112025"></script>
+<script type="text/javascript" src="/Assets/corp/2020/js/lib/require.js?ver=202203112025"></script>
+<script type="text/javascript" src="/Assets/corp/2020/js/common.js?ver=202203112025"></script>
+<script>
+$(function(){
+    $("#SearchUrl").val($("#SearchUrl").val().replace('corporate/home/',''));
+})
+</script>
+    <script type="text/javascript" src="/Assets/corp/2020/js/index.js?ver=202203112025"></script>
+    
+
+
+
+    
+</body>
+
+</html>
